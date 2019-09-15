@@ -4,7 +4,7 @@ import { Session } from './Session'
 import { OpenIdConfiguration } from './OpenIdConfiguration'
 import { SecurityOptions } from './SecurityOptions'
 
-class OpenIdProvider implements IProvider<Session> {
+export class OpenIdProvider implements IProvider<Session> {
   constructor(
     private config: OpenIdConfiguration,
     private options: SecurityOptions
