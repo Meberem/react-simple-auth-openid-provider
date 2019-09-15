@@ -1,11 +1,11 @@
 {
   "name": "@meberem/react-simple-auth-openid-provider",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "keywords": [],
   "main": "dist/react-simple-auth-openid-provider.umd.js",
   "module": "dist/react-simple-auth-openid-provider.es5.js",
-  "typings": "dist/types/OpenIdProvider.d.ts",
+  "typings": "dist/types/react-simple-auth-openid-provider.d.ts",
   "files": [
     "dist"
   ],
